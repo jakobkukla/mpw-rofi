@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 mpw() {
     _copy() {
 	if hash pbcopy 2>/dev/null; then
